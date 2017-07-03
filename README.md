@@ -7,7 +7,7 @@ This is a code project for a tutorial teaching the basics of Model-View-Controll
 * Dismissal of Keyboard
 
 
-![Screenshot](https://github.com/markfilter/markfilter-iOS-Tutorial-Basic-Interactions/Project-Screenshot.png)
+![Project Screenshot](https://github.com/markfilter/markfilter-iOS-Tutorial-Basic-Interactions/blob/master/Project-Screenshot.png)
 
 
 ### Getting Started
