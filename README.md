@@ -6,6 +6,10 @@ This is a code project for a tutorial teaching the basics of Model-View-Controll
 * Basic Alert Controller
 * Dismissal of Keyboard
 
+
+![Screenshot](https://github.com/markfilter/markfilter-iOS-Tutorial-Basic-Interactions/Project-Screenshot.png)
+
+
 ### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development purposes. See deployment for notes on how to deploy the project on a live system.
